@@ -1,0 +1,38 @@
+{
+    "PO Number": "11748477",
+    "PO Date": "16-Nov-2024",
+    "PO Expiry": "18-Nov-2024",
+    "PO Amount": "12602.38",
+    "Account Store": "RAI",
+    "Account Name": "ResoluteAI Software",
+    "Account Delivery Address": "DELHI",
+    "Account Billing Address": "BANGALORE",
+    "Account GST": "125648W",
+    "Account Client Number": "88888",
+    "List Items": [
+        {
+            "Sr. No.": "1",
+            "Description": "NVIDIA ",
+            "A": "",
+            "B": "",
+            "Qty": "12",
+            "MRP": "30",
+            "Unit Cost": "22.86",
+            "Disc %": "",
+            "C": "",
+            "Total  Value": "288"
+        },
+        {
+            "Sr. No.": "2",
+            "Description": "LINUX",
+            "A": "",
+            "B": "",
+            "Qty": "12",
+            "MRP": "30",
+            "Unit Cost": "22.86",
+            "Disc %": "",
+            "C": "",
+            "Total  Value": "288"
+        }
+    ]
+}
